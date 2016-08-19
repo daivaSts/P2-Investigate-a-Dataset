@@ -14,7 +14,7 @@ titanic_data.csv
 ### ANALYZING DATA:
 One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class. (https://www.kaggle.com/c/titanic)
 
-My goal is to explore the survival rates of men and women overall, and based on their traveling class or how the rates correlated with passenger location on the ship. In particular, I wanted to compare survival rates of the first class males and third class females. The hypothesis is that the gender does impact the chances of survival. 
+I am interested in women passenger survival. My goal was to explore the survival rates for women overall, comparing male and female survival. Also, survival based on their traveling class (upper, middle or lower). And lastly - survival based on 2 groups of age - adult and child. 
 
 
 
